@@ -73,6 +73,7 @@ p {
 .hero {
   background-image: url("images/maldives.jpg");
   min-height: 100vh;
+  font-weight: bold;
 }
 .hero__titre {
   text-shadow: rgb(0, 191, 191) 2px 2px 4px;
